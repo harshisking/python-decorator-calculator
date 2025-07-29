@@ -1,5 +1,5 @@
 ## 🚀 Secure Calculator with Python Decorators 🧮🔐  
-This is a simple CLI-based calculator app written in Python that demonstrates the power of **decorators**. The calculator supports basic arithmetic operations but includes multiple layers of functionality using custom decorators.  
+This is a simple CLI-based calculator practice project written in Python that demonstrates the power of **decorators**. The calculator supports basic arithmetic operations but includes multiple layers of functionality using custom decorators.  
  
 ---  
  
